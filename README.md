@@ -1,0 +1,2 @@
+# Shuaibiqbal-Effect-of-Feature-Count-on-Hyperparameter-Tuning-Original-Noisy-and-PCA-Reduced-Features
+This repository explores how the number of features impacts hyperparameter tuning in machine learning models. It demonstrates tuning using original, noisy, and PCA-reduced features with Logistic Regression, highlighting how feature count affects model complexity, regularization, and overfitting prevention.
