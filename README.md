@@ -35,3 +35,5 @@ You can install them using `pip`:
 ```bash
 pip install numpy pandas scikit-learn matplotlib
 
+for more clearification open notebook 
+
